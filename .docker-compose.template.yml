@@ -1,3 +1,3 @@
 image: test
 volumes:
-  - "<PROJECT_DIR">/src"
+  - "<PROJECT_DIR>/src"
